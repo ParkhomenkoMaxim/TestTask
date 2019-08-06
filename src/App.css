@@ -1,0 +1,55 @@
+.main {
+
+}
+
+.section {
+  margin: 5px auto;
+  text-align: center;
+  width: 80vw;
+
+}
+
+.textarea {
+  margin: 10px;
+  resize: none;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.urlAdder, .imgForm {
+  padding: 10px;
+}
+
+.imgLoader {
+  width: 58.6vw;
+  height: 63vh;
+  border: 1px solid #c6c7cc;
+  border-radius: 5px;
+  float:left;
+}
+
+label {
+  color: #395870;
+  font-weight: bold;
+}
+
+.addButton {
+  background: linear-gradient(#49708f, #293f50);
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.sendButton {
+  background: linear-gradient(#49708f, #293f50);
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 8px 16px;
+  float: right;
+  margin-right: 15px;
+}
